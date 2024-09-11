@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RV-LIAM
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning MLOps, GCP Data Engineering, Microservice Architecture
+- 🌱 I’m currently GenAI
 - 💞️ I’m looking to collaborate on ML and AI for now
 - 📫 How to reach me - rahul151285@yahoo.com
 
